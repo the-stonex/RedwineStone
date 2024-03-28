@@ -22,9 +22,13 @@
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/Red_Wine_Op"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/+mh-rd8OnnC8zNDc1"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://telegram.me/AvengerNews"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/+25ycpMEBd7QwMzg1"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
+
+<p align="center">
+<a href="https://telegram.me/Red_Wine_Op"><img src="https://img.shields.io/badge/-Chatting%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
