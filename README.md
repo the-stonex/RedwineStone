@@ -32,3 +32,9 @@
 <p align="center">
 <a href="https://telegram.me/Red_Wine_Op"><img src="https://img.shields.io/badge/-Chatting%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
+
+
+# Credit 💳
+<p align="center">
+<a href="https://telegram.me/Kalakar_Sangram"><img src="https://img.shields.io/badge/-Creator%20-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
