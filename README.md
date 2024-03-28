@@ -35,6 +35,5 @@
 
 
 # Credit 💳
-<p align="center">
-<a href="https://telegram.me/Kalakar_Sangram"><img src="https://img.shields.io/badge/-Creator%20-blue.svg?style=for-the-badge&logo=Telegram"></a>
-</p>
+- [Sangram](https://t.me/Kalakar_Sangram)
+- [Owner](https://t.me/Dadu10x)
