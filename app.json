@@ -57,7 +57,7 @@
         "value": "",
         "required": false
       },
-      "LOG_GROUP_ID": {
+      "LOGGER_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Do not ever try to put channel ID here.",
         "value": "",
         "required": true
