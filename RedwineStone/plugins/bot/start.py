@@ -1,5 +1,5 @@
 import time
-
+import random
 from pyrogram import filters
 from pyrogram.enums import ChatType
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, Message
@@ -22,8 +22,9 @@ from RedwineStone.utils.database import (
 )
 from RedwineStone.utils.decorators.language import LanguageStart
 from RedwineStone.utils.formatters import get_readable_time
+from RedwineStone.utils import bot_sys_stats
 from RedwineStone.utils.inline import help_pannel, private_panel, start_panel
-from config import BANNED_USERS
+from config import BANNED_USERS, START_IMG_URL
 from strings import get_string
 
 
