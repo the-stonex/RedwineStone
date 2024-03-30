@@ -31,7 +31,7 @@ from RedwineStone.utils.database import (
     remove_active_video_chat,
     set_loop,
 )
-from RedwineStone.utils.exceptions import AssistantErr
+from RedwineStone.utils.database import AssistantErr
 from RedwineStone.utils.formatters import check_duration, seconds_to_min, speed_converter
 from RedwineStone.utils.inline.play import stream_markup
 from RedwineStone.utils.stream.autoclear import auto_clean
