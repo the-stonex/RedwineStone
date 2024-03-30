@@ -4,6 +4,10 @@ from typing import Dict, List, Union
 from RedwineStone import userbot
 from RedwineStone.core.mongo import mongodb
 
+class AssistantErr(Exception):
+    def init(self, errr: str):
+        super().init(errr)
+        
 authdb = mongodb.adminauth
 authuserdb = mongodb.authuser
 autoenddb = mongodb.autoend
