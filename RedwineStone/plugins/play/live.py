@@ -1,5 +1,5 @@
 from pyrogram import filters
-
+from RedwineStone.utils.database import AssistantErr
 from RedwineStone import YouTube, app
 from RedwineStone.utils.channelplay import get_channeplayCB
 from RedwineStone.utils.decorators.language import languageCB
