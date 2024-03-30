@@ -8,8 +8,8 @@ import config
 from RedwineStone import Carbon, YouTube, app
 from RedwineStone.core.call import Sang
 from RedwineStone.misc import db
-from RedwineStone.utils.database import add_active_video_chat, is_active_chat
-from RedwineStone.utils.exceptions import AssistantErr
+from RedwineStone.utils.database import add_active_video_chat, is_active_chat, AssistantErr
+
 from RedwineStone.utils.inline import aq_markup, close_markup, stream_markup
 from RedwineStone.utils.pastebin import SangBin
 from RedwineStone.utils.stream.queue import put_queue, put_queue_index
