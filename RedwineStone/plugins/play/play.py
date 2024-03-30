@@ -8,6 +8,7 @@ from pytgcalls.exceptions import NoActiveGroupCall
 import config
 from RedwineStone import Apple, Resso, SoundCloud, Spotify, Telegram, YouTube, app
 from RedwineStone.core.call import Sang
+from RedwineStone.utils.database import AssistantErr
 from RedwineStone.utils import seconds_to_min, time_to_seconds
 from RedwineStone.utils.channelplay import get_channeplayCB
 from RedwineStone.utils.decorators.language import languageCB
