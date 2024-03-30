@@ -18,7 +18,7 @@
 
 
 <h3 align="center">
-    Telegram Support 
+    ─「 sᴜᴩᴩᴏʀᴛ 」─
 </h3>
 
 <p align="center">
