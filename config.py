@@ -23,7 +23,7 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 20000))
 LOGGER_ID = int(getenv("LOGGER_ID", "-1002018396384" ))
 
 # Get this value from @MissRose_Bot on Telegram by /id
-OWNER_ID = int(getenv("OWNER_ID", "6570546331𝙉𝙖𝙮𝙧𝙖 ✘ 𝙈𝙪𝙨𝙞𝙘" ))
+OWNER_ID = int(getenv("OWNER_ID", "6570546331" ))
 
 # Fill Queue Limit . Example - 15
 QUEUE_LIMIT = int(getenv("QUEUE_LIMIT", 10))
