@@ -25,10 +25,6 @@ LOGGER_ID = int(getenv("LOGGER_ID", "-1002018396384" ))
 # Get this value from @MissRose_Bot on Telegram by /id
 OWNER_ID = int(getenv("OWNER_ID", "6570546331" ))
 
-# Fill Queue Limit . Example - 15
-QUEUE_LIMIT = int(getenv("QUEUE_LIMIT", 10))
-
-## Fill these variables if you're deploying on heroku.
 # Your heroku app name
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 # Get it from http://dashboard.heroku.com/account
@@ -38,10 +34,6 @@ UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
     "https://github.com/the-stonex/RedwineStone",
 )
-UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
-GIT_TOKEN = getenv(
-    "GIT_TOKEN", None
-)  # Fill this variable if your upstream repository is private
 
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
